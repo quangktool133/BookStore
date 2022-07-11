@@ -1,0 +1,18 @@
+tk paypal: bookstoreteam123@gmail.com
+MK: bookstoreteam@
+
+
+tk người mua:
+TK: sb-bapjr16747177@personal.example.com
+MK: }1_!4LLl
+
+
+TK: ktoolquang@personal.example.com
+MK: quangktool@
+
+https://developer.paypal.com/developer/accounts
+
+C:\Program Files\Apache Software Foundation\apache-tomcat-9.0.43\webapps\book-store\images\books
+--- Add thêm ảnh 
+D:\Lab web\Sum 22\Lab 2\BookStore\src\main\webapp\images\books
+
